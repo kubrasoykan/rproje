@@ -1,0 +1,1 @@
+save(first_degree_fraud_situations, file="first_degree_frauds.Rdata")

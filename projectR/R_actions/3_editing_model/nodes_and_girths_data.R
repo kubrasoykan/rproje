@@ -1,0 +1,5 @@
+library(data.table)
+df_cl <- data.frame(1:length(dec_graph))
+df_size <- data.frame(sapply(dec_graph, vcount))
+df_all <- cbind(df_cl, df_size, graph_girths)
+df_all <- setnames(df_all, c("accident_situation","number_of_nodes", "number_of_loop_units"))
