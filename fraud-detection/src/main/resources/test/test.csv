@@ -1,0 +1,3 @@
+id,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,yr_built,yr_renovated,zipcode,lat,long,sqft_living15,sqft_lot15
+"1559900080","20141121T000000",289200,3,2.25,1760,7023,"2",0,0,3,7,1760,0,1995,0,"98019",47.7468,-121.98,1760,7082
+"7135300275","20140904T000000",185000,1,1,720,5000,"1",0,0,4,6,720,0,1908,0,"98118",47.5289,-122.272,1170,5000

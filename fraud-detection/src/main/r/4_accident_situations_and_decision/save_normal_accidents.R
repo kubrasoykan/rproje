@@ -1,0 +1,1 @@
+save(normal_accidents, file="normal_accidents.Rdata")

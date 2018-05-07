@@ -1,0 +1,1 @@
+save(BUG, file = "Network_Model.RData")

@@ -1,0 +1,1 @@
+dec_graph2 <- decompose(BUG)
